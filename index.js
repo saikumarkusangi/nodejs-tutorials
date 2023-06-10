@@ -10,7 +10,8 @@ const students ={
 const staff ={
   data: [
   {'name':'rayudu','age':40,'branch':'eee','post':'Hod'},
-  {'name':'rama krishna','age':41,'branch':'eee','post':'proffesor'}
+  {'name':'rama krishna','age':41,'branch':'eee','post':'proffesor'},
+  {'name':'munishweer','age':35,'branch':'eee','post':'assistent proffesor'}
 ]
 }
 app.get('/bvrit/:year/:type',(req,res)=>{
