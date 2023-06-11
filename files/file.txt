@@ -1,8 +1,0 @@
-Hi, can you please further explain how this works? 
-I started off reading on node.js,
-thinking it was all I needed but when I still couldn't get my pages displaying,
-I looked up why and came on to info on express.
-Now I followed info on the express 4.2 page,
-and ran into the error above which you helped with.
-Now I got ejs and it still does not seem to be all I need. 
-Can you please give me a flow of how this ought to work please? 
